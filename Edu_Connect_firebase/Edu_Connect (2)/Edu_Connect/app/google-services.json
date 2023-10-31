@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "300501716985",
+    "firebase_url": "https://educonnect-8d85a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "educonnect-8d85a",
+    "storage_bucket": "educonnect-8d85a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300501716985:android:bd83d264d8044595573728",
+        "android_client_info": {
+          "package_name": "com.example.edu_connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300501716985-ihlkcheitgb2n0cqumosje7v32ovu8mo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjGGUvJpGzzbsbF3YF3SMpkbQ5Y13vLG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300501716985-ihlkcheitgb2n0cqumosje7v32ovu8mo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300501716985:android:76c58aa161107408573728",
+        "android_client_info": {
+          "package_name": "com.example.module_timetable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300501716985-ihlkcheitgb2n0cqumosje7v32ovu8mo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjGGUvJpGzzbsbF3YF3SMpkbQ5Y13vLG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300501716985-ihlkcheitgb2n0cqumosje7v32ovu8mo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
